@@ -1,5 +1,5 @@
-# custom-python-compiler
-python compiler made with tkinter
+# custom-python-IDE
+python IDE made with tkinter
 
 just run this python file.
 
